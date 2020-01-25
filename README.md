@@ -1,5 +1,7 @@
 # Calendar
-Creates multiple versions of a calendar with events.
+Creates multiple versions of a calendar with events
+
+Some code is supplied by Dr. James Klayder and modified by Alec Barker. Some helper files are used that were created for Princeton University's CS department.
 
 To use the program, run main/CalendarFrame.java
 

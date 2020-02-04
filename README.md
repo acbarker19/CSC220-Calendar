@@ -18,4 +18,4 @@ There are options to do the following:
 - Display a calendar in a simple monthly text format that is output to an HTML file
 - Use an HTML table to display a calendar that is output to an HTML file
 - Use an HTML table to display a calendar with events from a text file displayed on the calendar that is output to an HTML file
-- Use an HTML table to display a calendar with links to seperate webpages about events from a text file that is output to an HTML file
+- Use an HTML table to display a calendar with links to separate webpages about events from a text file that is output to an HTML file

@@ -1,7 +1,7 @@
 # Calendar
-Creates multiple versions of a calendar with events from my second programming class, Programming and Problem Solving II, at the University of Mount Union that is taught by Dr. James Klayder.
+Creates multiple versions of a calendar with events. This project was created for my second programming class, Programming and Problem Solving II, at the University of Mount Union that was taught by Dr. James Klayder.
 
-Some code is supplied by Dr. James Klayder and modified by Alec Barker. Some helper files are used that were created for Princeton University's CS department.
+Some code was supplied by Dr. James Klayder and modified by Alec Barker. Some helper files are used that were created for Princeton University's CS department.
 
 To use the program, run main/CalendarFrame.java
 
